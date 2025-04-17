@@ -3,7 +3,7 @@
 
 
 
-- 🎓 I have graduated from Sai Gon University with bachelor degree in Software Engineer.
+- 🎓 I have graduated from Dai Nam University with bachelor degree in Software Engineer.
 - 💡 I'm a passionate learner who's always willing to learn and work across technologies and domains.
 - ✨ I love to explore new technologies and leverage them to solve real-life problems.
 I am an software engineer. I have been working in software industry since I was a Junior Student. (My experiences ~4 years)
